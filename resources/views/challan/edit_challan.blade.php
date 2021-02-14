@@ -578,21 +578,13 @@
                     <div class="form-group">
                         <label class="control-label">Petrol Pump</label>
                         <select name="petrol_pump_id" id="petrol_pump_id" class="form-control" style="width: 100%;">
-                            <?php $petrol_pump= \App\Petrol_Pump::find($bata->petrol_pump_id);?>
 
-                            @if(!empty($petrol_pump))
+                            <?php $petrol_pump= \App\Petrol_Pump::find($bata->petrol_pump_id);?>
                             <option value="{{$petrol_pump->id}}">{{$petrol_pump->name}},{{$petrol_pump->address}}</option>
                             <?php  $datas = App\Petrol_Pump::all(); ?>
                             @foreach($datas as $data)
                                 <option value="{{$data->id}}">{{$data->name}}, {{$data->address}}</option>
                             @endforeach
-                            @else
-                            <option value="0"> Select Petrol Pump</option>
-                            <?php  $datas = App\Petrol_Pump::all(); ?>
-                             @foreach($datas as $data)
-                             <option value="{{$data->id}}">{{$data->name}}, {{$data->address}}</option>
-                             @endforeach
-                            @endif
                         </select>
                     </div>
                 </div>
