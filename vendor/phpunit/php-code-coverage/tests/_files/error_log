@@ -1,6 +1,0 @@
-[09-Aug-2020 07:01:57 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6
-[09-Aug-2020 07:01:57 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6
-[09-Aug-2020 07:01:58 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6
-[09-Aug-2020 07:01:59 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6
-[09-Aug-2020 07:02:47 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6
-[09-Aug-2020 07:02:52 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/sbtscv13/public_html/vendor/phpunit/php-code-coverage/tests/_files/BankAccountTest.php on line 6

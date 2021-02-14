@@ -1,1 +1,0 @@
-[19-Nov-2020 15:48:39 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/sbtscv13/public_html/app/Console/Kernel.php on line 8

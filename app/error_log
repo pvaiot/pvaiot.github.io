@@ -1,3 +1,0 @@
-[19-Nov-2020 15:47:44 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/sbtscv13/public_html/app/BillRegister.php on line 7
-[19-Nov-2020 15:47:53 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/sbtscv13/public_html/app/Courier.php on line 7
-[12-Feb-2021 07:57:59 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/sbtscv13/public_html/app/BillRegister.php on line 7

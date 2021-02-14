@@ -1,6 +1,0 @@
-[13-May-2019 07:39:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BranchController::wowtest() in /home/sbtscv13/public_html/app/Http/Controllers/BranchController.php on line 57
-[13-May-2019 07:39:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BranchController::wowtest() in /home/sbtscv13/public_html/app/Http/Controllers/BranchController.php on line 31
-[19-Nov-2020 15:46:35 UTC] PHP Warning:  require_once(/home/sbtscv13/public_html/public/index.php): failed to open stream: No such file or directory in /home/sbtscv13/public_html/server.php on line 21
-[19-Nov-2020 15:46:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/sbtscv13/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/sbtscv13/public_html/server.php on line 21
-[14-Jan-2021 17:23:29 UTC] PHP Warning:  require_once(/home/sbtscv13/public_html/public/index.php): failed to open stream: No such file or directory in /home/sbtscv13/public_html/server.php on line 21
-[14-Jan-2021 17:23:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/sbtscv13/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/sbtscv13/public_html/server.php on line 21
