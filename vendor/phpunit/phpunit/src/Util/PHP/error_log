@@ -1,0 +1,9 @@
+[04-Oct-2020 12:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ereg_replace() in /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/inboxv2.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:3
+Stack trace:
+#0 /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/inboxv2.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/inboxv2.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/inboxv2.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/sbtscv13/public_html/vendor in /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/inboxv2.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 3
+[04-Oct-2020 13:07:21 UTC] PHP Fatal error:  Cannot use "static" when no class scope is active in /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/XwormMailer.php on line 119
+[04-Oct-2020 13:08:33 UTC] PHP Fatal error:  Cannot use "static" when no class scope is active in /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/XwormMailer.php on line 119
+[04-Oct-2020 16:21:02 UTC] PHP Fatal error:  Cannot use "static" when no class scope is active in /home/sbtscv13/public_html/vendor/phpunit/phpunit/src/Util/PHP/XwormMailer.php on line 119

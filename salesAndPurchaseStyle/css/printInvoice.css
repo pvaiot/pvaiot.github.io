@@ -1,0 +1,262 @@
+@font-face {
+  font-family: SourceSansPro;
+  src: url(SourceSansPro-Regular.ttf);
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: #0087C3;
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+  width:  14.990in;
+  height: 10.440in;
+  /*width:  297mm;*/
+  /*height: 210mm;*/
+  color: #000;
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  font-family: SourceSansPro;
+  border: solid 1px;
+}
+
+header {
+  padding: 10px 0;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #AAAAAA;
+}
+
+#logo {
+  float: left;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+#logo img {
+  height: 44px;
+}
+
+#company {
+  /*float: right;*/
+  text-align: center;
+}
+
+
+#details {
+ /*padding: 10px;*/
+  border-bottom: solid 1px;
+}
+
+#client {
+   padding-top: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   float: left;
+   width:35%;
+  border-right: solid 1px;
+}
+#client2 {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  float: left;
+  width:35%;
+  border-right: solid 1px;
+}
+#client .to {
+  color: #777777;
+}
+#client2 .to {
+  color: #777777;
+}
+h1.name {
+  font-size: 2.7em;
+  font-weight: normal;
+  margin: 0;
+}
+.invoice {
+  border-bottom: 2px solid #aaaaaa;
+  height: 26px;
+  line-height: 23px;
+  margin-bottom: -1px;
+  margin-top: -19px;
+  text-align: center;
+}
+#invoice {
+  float: left;
+  text-align: left;
+  padding: 10px;
+  line-height: 19px;
+}
+
+#invoice h1 {
+  color: #0087C3;
+  font-size: 1.6em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+}
+
+#invoice .date {
+  font-size: 1em;
+  color: #777777;
+}
+div.billcontainer {
+  height: 688px;
+   position: relative;
+  margin-bottom: 5px;
+  border-bottom: solid 1px ;
+
+}
+div.billcontainer1 {
+  position: relative;
+
+}
+
+.head{
+  margin:0;
+  padding: 0;
+}
+.head ul{
+  margin: 0;
+  padding: 0;
+}
+.head ul li{
+
+  display: inline-block;
+box-sizing: border-box;
+  text-align: center;
+}
+
+.floatline{
+  border-right: 1px solid;
+  height: 690px;
+  position: absolute;
+  width: 14px;
+}
+.slno{
+  top: 0px;
+  left: 34px;
+}
+.description{
+   left: 534px;
+  top: -1px;
+ }
+
+.size{
+   left: 609px;
+    top: -1px;
+ }
+
+.batch{
+    left: 729px;
+  top: -1px;
+ }
+
+.mfg{
+   left: 836px;
+  top: -1px;
+ }
+
+.exp{
+   left: 944px;
+  top: -1px;
+ }
+
+.qnty{
+  left: 1005px;
+  top: -1px;
+}
+
+.rate{
+  left: 1120px;
+  top: -1px;
+}
+
+.sumdetails{
+  width: 60%;
+  border-right: solid 1px;
+  border-bottom: solid 1px;
+  float: left;
+}
+.sumaccount{
+  width: 39.9%;
+  border-bottom: solid 1px;
+  float: right;
+  position: relative;
+}
+
+.totalborder2{
+  border-right: 1px solid;
+  height: 177px;
+  left: 348px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+
+}
+#thanks{
+  font-size: 2em;
+  margin-bottom: 50px;
+}
+
+#notices{
+  padding-left: 6px;
+  border-left: 6px solid #0087C3;
+}
+
+#notices .notice {
+  font-size: 1.2em;
+}
+
+footer {
+  color: #777777;
+  width: 100%;
+  height: 10px;
+  /*position: absolute;*/
+  /*bottom: -137px;*/
+  border-top: 1px solid #AAAAAA;
+  padding: 8px 0;
+  text-align: center;
+  margin-top: 5px;
+}
+.grand_total{
+  /*margin-top: 100px;*/
+  width: 61px!important;
+}
+.grand_total td{
+  width: 10px;
+}
+
+.signature{
+  border-top: solid 1px;
+  /*border-bottom: solid 1px;*/
+  height: 6px;
+
+}
+.command {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  cursor: pointer;
+}
+.command1 {background-color: #008CBA;} /* Blue */
+.command2 {background-color: #f44336;} /* Red */
+.command3 {background-color: #e7e7e7; color: black;} /* Gray */
+.command4 {background-color: #555555;} /* Black */

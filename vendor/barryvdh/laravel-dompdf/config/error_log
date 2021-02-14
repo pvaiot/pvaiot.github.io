@@ -1,0 +1,4 @@
+[18-Nov-2020 04:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/sbtscv13/public_html/vendor/barryvdh/laravel-dompdf/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/sbtscv13/public_html/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 41

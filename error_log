@@ -1,0 +1,2 @@
+[13-May-2019 07:39:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BranchController::wowtest() in /home/sbtscv13/public_html/app/Http/Controllers/BranchController.php on line 57
+[13-May-2019 07:39:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\BranchController::wowtest() in /home/sbtscv13/public_html/app/Http/Controllers/BranchController.php on line 31

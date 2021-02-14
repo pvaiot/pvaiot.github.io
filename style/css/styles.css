@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("loginbg.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+
+.container{
+    width: 320px;
+    height: 420px;
+    background: #fff!important;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    box-shadow: 2px 2px 17px;
+}
+ .container input{
+     border: none;
+     padding: 5px;
+     border: solid 1px green;
+     padding: 5px;
+ }
+
+ .container button{
+     background-color: #008CBA;
+     color: #FFFFFF;
+     border: none;
+     padding: 10px;
+     width: 110px;
+
+ }
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+
+}
+
+.panel-heading{
+    padding: 70px 30px;
+    text-align: center;
+}
+
+.form-group{
+    text-align: center;
+    padding: 5px;
+}
